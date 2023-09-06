@@ -1,0 +1,281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"blue",
+				"cadetblue"
+			],
+			[
+				"dark",
+				"darkblue"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"list-style-",
+				"list-style-type"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"m",
+				"main"
+			],
+			[
+				"b",
+				"body"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/XAMPP/htdocs/Lab4/register.php",
+		"/D/XAMPP/htdocs/Lab4/123.php",
+		"/D/XAMPP/htdocs/Lab4/login.php",
+		"/D/XAMPP/htdocs/Lab4/intropage.php",
+		"/D/XAMPP/htdocs/Lab4/css/style.css",
+		"/D/XAMPP/htdocs/Lab4/constants.php",
+		"/D/XAMPP/htdocs/Lab4/logout.php",
+		"/D/XAMPP/htdocs/Lab4/includes/header.php",
+		"/D/XAMPP/htdocs/Lab4/connection.php",
+		"/D/XAMPP/htdocs/Lab4/includes/footer.php",
+		"/C/Users/Gull_kotoryy_Chayka/Desktop/database.sql",
+		"/C/Users/Gull_kotoryy_Chayka/Downloads/lab2.sql",
+		"/D/Обучение/1ОБД/Lab0/2/css/style.css",
+		"/D/Обучение/1ОБД/Lab0/2/index.html",
+		"/C/Users/Gull_kotoryy_Chayka/Desktop/lab1.asm",
+		"/C/Users/Gull_kotoryy_Chayka/Desktop/Обучение/1ОБД/Lab0/2/index.html",
+		"/C/Users/Gull_kotoryy_Chayka/Desktop/Обучение/1ОБД/Lab0/2/css/style.css",
+		"/C/Users/Gull_kotoryy_Chayka/Desktop/Обучение/1ОБД/Lab0/1/Task3-4.html",
+		"/C/Users/Gull_kotoryy_Chayka/Desktop/Обучение/1ОБД/Lab0/2/2.css",
+		"/C/Users/Gull_kotoryy_Chayka/Desktop/Обучение/1ОБД/Lab0/2/img/Zulik.jpg",
+		"/C/Users/Gull_kotoryy_Chayka/Desktop/Обучение/1ОБД/Lab0/1/Task2.html",
+		"/C/Users/Gull_kotoryy_Chayka/Desktop/Обучение/1ОБД/Task5.html",
+		"/C/Users/Gull_kotoryy_Chayka/Desktop/Обучение/1ОБД/Task6.html",
+		"/C/Users/Gull_kotoryy_Chayka/Desktop/Обучение/1ОБД/Task1.html",
+		"/C/Users/Gull_kotoryy_Chayka/Desktop/Обучение/1ОБД/Task3-4.html",
+		"/C/Users/Gull_kotoryy_Chayka/Desktop/Обучение/1ОБД/Task2.html",
+		"/C/Users/Gull_kotoryy_Chayka/Desktop/Обучение/1ОБД/Task7.html"
+	],
+	"find":
+	{
+		"height": 27.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.3333333333
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "intropage.sublime-project",
+	"replace":
+	{
+		"height": 50.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Roboto&display=swap');
+
+body 
+{
+	background: 
+	url(img/bg-light.jpg) center repeat;
+	zoom: 75%
+}
+main 
+{
+	width: 960px;
+	margin: auto;
+}
+header 
+{
+	height: 80px;
+	background-color: blue;
+	position: relative;
+	padding: 15px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 60px;
+	padding-left: 120px;
+}
+img 
+{
+	position: absolute;
+	left: 15px;
+	top: 15px;
+}
+nav 
+{
+	max-height: 80px;
+	background: deepskyblue;
+	font-family: 'Caveat', cursive;
+}
+na
+{
+	max-height: 80px;
+	padding: 6px;
+	background: skyblue;
+	font-family: 'Caveat', cursive;
+}
+#menu
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#menu>li 
+{
+	padding: 10px 10px;
+	display: inline-block;
+	border: white solid 2px;
+}
+#menu>li:hover
+{
+	color:white;
+	background-color: deepskyblue;
+}
+article 
+{
+	background-color: blanchedalmond;
+	text-align: center;
+	padding: 15px;
+}
+#p1
+{
+	background: cadetblue;
+	border: white 2px solid;
+	font-size: 18px;
+	color: white;
+	padding: 10px;
+}
+#p3
+{
+	text-align: left;
+	padding: 20px;
+	font-family: Roboto;
+	font-size: 16pt;
+}
+footer
+{
+	min-height: 50px;
+	text-align: center;
+	padding-top: 5px;
+	background: deepskyblue;
+	font-size: 20pt;
+}
